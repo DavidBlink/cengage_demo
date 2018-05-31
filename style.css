@@ -1245,13 +1245,13 @@ body:not(.edit) .slider-indicators {
 /**TABLA**/
 table,
 .bck-table {
-	border: 1px solid #fff;
+	border: 1px solid #ccc;
 }
 
 table td,
 .bck-table td {
 	padding: 10px;
-	border-color: #fff;
+	border-color: #ccc;
 }
 
 table td.bck-td-1 {
