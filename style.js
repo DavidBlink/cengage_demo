@@ -1,17 +1,17 @@
 (function (blink) {
 	'use strict';
 
-	var ikaselkar_demoStyle = function () {
+	var cengage_demoStyle = function () {
 			blink.theme.styles.basic.apply(this, arguments);
 		},
 		page = blink.currentPage;
 
-	ikaselkar_demoStyle.prototype = {
-		bodyClassName: 'content_type_clase_ikaselkar_demo',
+	cengage_demoStyle.prototype = {
+		bodyClassName: 'content_type_clase_cengage_demo',
 		toolbar: { name: 'editorial', items: ['Blink_popover'] },
 		extraPlugins: ['blink_popover'],
 		ckEditorStyles: {
-			name: 'ikaselkar_demo',
+			name: 'cengage_demo',
 			styles: [
 				{ name: 'Kokatze-h', element: 'h2', attributes: { 'class': 'bck-title bck-title-1'} },
 				{ name: 'Kokatze-g', element: 'h3', attributes: { 'class': 'bck-title bck-title-12'} },
@@ -217,7 +217,7 @@
 			if(blink.courseInfo && blink.courseInfo.courseDateCreated) var courseYearCreated = new Date(blink.courseInfo.courseDateCreated).getFullYear();
 			var yearCopy = courseYearCreated !== undefined ? courseYearCreated : 2016;
 			$navbarBottom
-				.attr('class', 'ikaselkar_demo-navbar')
+				.attr('class', 'cengage_demo-navbar')
 				.wrapInner('<div class="navbar-content"></div>')
 				.find('ol')
 					.before('<span class="copyright">&copy;' +  yearCopy + '</span>')
@@ -387,7 +387,7 @@
 
 		animateNavbarOnScroll: function () {
 			if (!blink.isApp) return;
-			var $navbar = $('.ikaselkar_demo-navbar');
+			var $navbar = $('.cengage_demo-navbar');
 			var lastScrollTop = 0;
 			$('.js-slider-item').scroll(function () {
 				var scrollTop = $(this).scrollTop();
@@ -397,9 +397,9 @@
 		}
 	};
 
-	ikaselkar_demoStyle.prototype = _.extend({}, new blink.theme.styles.basic(), ikaselkar_demoStyle.prototype);
+	cengage_demoStyle.prototype = _.extend({}, new blink.theme.styles.basic(), cengage_demoStyle.prototype);
 
-	blink.theme.styles['ikaselkar_demo'] = ikaselkar_demoStyle;
+	blink.theme.styles['cengage_demo'] = cengage_demoStyle;
 
 })( blink );
 
