@@ -1,13 +1,12 @@
-
 (function (blink) {
 	'use strict';
 
-	var McGrawHillStyle = function () {
+	var cengage_demoStyle = function () {
 			blink.theme.styles.basic.apply(this, arguments);
 		},
 		page = blink.currentPage;
 
-	McGrawHillStyle.prototype = {
+	cengage_demoStyle.prototype = {
 		bodyClassName: 'content_type_clase_cengage_demo',
 		toolbar: { name: 'editorial', items: ['Blink_popover'] },
 		extraPlugins: ['blink_popover'],
@@ -367,9 +366,9 @@
 		}
 	};
 
-	McGrawHillStyle.prototype = _.extend({}, new blink.theme.styles.basic(), McGrawHillStyle.prototype);
+	cengage_demoStyle.prototype = _.extend({}, new blink.theme.styles.basic(), cengage_demoStyle.prototype);
 
-	blink.theme.styles['cengage_demo'] = McGrawHillStyle;
+	blink.theme.styles['cengage_demo'] = cengage_demoStyle;
 
 })( blink );
 
