@@ -1,40 +1,100 @@
 (function (blink) {
 	'use strict';
 
-	var cengage_demoStyle = function () {
+	var ikaselkar_demoStyle = function () {
 			blink.theme.styles.basic.apply(this, arguments);
 		},
 		page = blink.currentPage;
 
-	cengage_demoStyle.prototype = {
-		bodyClassName: 'content_type_clase_cengage_demo',
+	ikaselkar_demoStyle.prototype = {
+		bodyClassName: 'content_type_clase_ikaselkar_demo',
 		toolbar: { name: 'editorial', items: ['Blink_popover'] },
 		extraPlugins: ['blink_popover'],
 		ckEditorStyles: {
-			name: 'cengage_demo',
+			name: 'ikaselkar_demo',
 			styles: [
-				{ name: 'Título 1', element: 'h2', attributes: { 'class': 'bck-title bck-title-1'} },
-				{ name: 'Título 2', element: 'h3', attributes: { 'class': 'bck-title bck-title-2'} },
-				{ name: 'Título 3', element: 'h3', attributes: { 'class': 'bck-title bck-title-3'} },
-
+				{ name: 'Kokatze-h', element: 'h2', attributes: { 'class': 'bck-title bck-title-1'} },
+				{ name: 'Kokatze-g', element: 'h3', attributes: { 'class': 'bck-title bck-title-12'} },
+				{ name: 'Kokatze-a', element: 'h3', attributes: { 'class': 'bck-title bck-title-11'} },
+				
+				{ name: 'Arakatze-h', element: 'h3', attributes: { 'class': 'bck-title bck-title-2'} },
+				{ name: 'Arakatze-g', element: 'h3', attributes: { 'class': 'bck-title bck-title-13'} },
+				{ name: 'Arakatze-a', element: 'h3', attributes: { 'class': 'bck-title bck-title-14'} },
+				
+				{ name: 'Planifikazio-h', element: 'h3', attributes: { 'class': 'bck-title bck-title-16'} },
+				{ name: 'Planifikazio-g', element: 'h3', attributes: { 'class': 'bck-title bck-title-15'} },
+				{ name: 'Planifikazio-a', element: 'h3', attributes: { 'class': 'bck-title bck-title-17'} },
+				
+				{ name: 'Ulertze-h', element: 'h3', attributes: { 'class': 'bck-title bck-title-18'} },
+				{ name: 'Ulertze-g', element: 'h3', attributes: { 'class': 'bck-title bck-title-4'} },
+				{ name: 'Ulertze-a', element: 'h3', attributes: { 'class': 'bck-title bck-title-19'} },
+				
+				{ name: 'Miatze-h', element: 'h3', attributes: { 'class': 'bck-title bck-title-20'} },
+				{ name: 'Miatze-g', element: 'h3', attributes: { 'class': 'bck-title bck-title-3'} },
+                                { name: 'Miatze-a', element: 'h3', attributes: { 'class': 'bck-title bck-title-21'} },
+				
+				{ name: 'Aplikazio-h', element: 'h3', attributes: { 'class': 'bck-title bck-title-22'} },
+				{ name: 'Aplikazio-g', element: 'h3', attributes: { 'class': 'bck-title bck-title-5'} },
+				{ name: 'Aplikazio-a', element: 'h3', attributes: { 'class': 'bck-title bck-title-23'} },
+				
+				{ name: 'Egituratze-h', element: 'h3', attributes: { 'class': 'bck-title bck-title-24'} },
+				{ name: 'Egituratze-g', element: 'h3', attributes: { 'class': 'bck-title bck-title-8'} },
+				{ name: 'Egituratze-a', element: 'h3', attributes: { 'class': 'bck-title bck-title-25'} },
+				
+				{ name: 'Isinplea-h', element: 'h3', attributes: { 'class': 'bck-title bck-title-26'} },
+				{ name: 'Isinplea-g', element: 'h3', attributes: { 'class': 'bck-title bck-title-7'} },
+				{ name: 'Isinplea-a', element: 'h3', attributes: { 'class': 'bck-title bck-title-9'} },
+				
+				{ name: 'Ikonplexua-h', element: 'h3', attributes: { 'class': 'bck-title bck-title-27'} },
+				{ name: 'Ikonplexua-g', element: 'h3', attributes: { 'class': 'bck-title bck-title-29'} },
+				{ name: 'Ikonplexua-a', element: 'h3', attributes: { 'class': 'bck-title bck-title-28'} },
+				
+				{ name: 'Autorregulazio-h', element: 'h3', attributes: { 'class': 'bck-title bck-title-30'} },
+				{ name: 'Autorregulazio-g', element: 'h3', attributes: { 'class': 'bck-title bck-title-6'} },
+				{ name: 'Autorregulazio-a', element: 'h3', attributes: { 'class': 'bck-title bck-title-10'} },
+				
+                                { name: 'Título 31', element: 'h3', attributes: { 'class': 'bck-title bck-title-31'} },
+                                { name: 'Sekuentzia-titulua', element: 'h3', attributes: { 'class': 'bck-title bck-title-32'} },
+                                { name: 'Zeregina-titulua', element: 'h3', attributes: { 'class': 'bck-title bck-title-33'} },
 				{ name: 'Énfasis', element: 'span', attributes: { 'class': 'bck-enfasis'} },
-
+				
 				{ name: 'Lista Desordenada', element: 'ul', attributes: { 'class': 'bck-ul'} },
 				{ name: 'Lista Ordenada 1', element: 'ol', attributes: { 'class': 'bck-ol bck-ol-1' } },
 				{ name: 'Lista Ordenada 2', element: 'ol', attributes: { 'class': 'bck-ol bck-ol-2' } },
 				{ name: 'Lista Ordenada 3', element: 'ol', attributes: { 'class': 'bck-ol bck-ol-3' } },
-
-				{ name: 'Caja 1', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box bck-box-1' } },
-				{ name: 'Caja 2', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box bck-box-2' } },
-
+				{ name: 'Lista Ordenada 4', element: 'ol', attributes: { 'class': 'bck-ol bck-ol-4' } },
+				{ name: 'Lista Ordenada 5', element: 'ol', attributes: { 'class': 'bck-ol bck-ol-5' } },
+				{ name: 'Lista Ordenada 6', element: 'ol', attributes: { 'class': 'bck-ol bck-ol-6' } },
+				{ name: 'Azpizeregina-titulua', element: 'ol', attributes: { 'class': 'bck-ol bck-ol-7' } },
+				{ name: 'Ikerketa-titulua', element: 'ol', attributes: { 'class': 'bck-ol bck-ol-8' } },
+				
+				{ name: 'Koloredun-kaxa', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box bck-box-1' } },
+				{ name: 'Azalpen-kaxa', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box bck-box-2' } },
+				{ name: 'Oharra-kaxa', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box bck-box-3' } },
+				{ name: 'Koloredun-kaxa-tit', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box bck-box-4' } },
+				{ name: 'Informazio-testua-h', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box bck-box-5' } },
+              			{ name: 'Informazio-testua-g', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box bck-box-6' } },
+                		{ name: 'Koaderno-zuria', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box bck-box-7' } },
+                		{ name: 'Koaderno-kuadrikulatua', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box bck-box-8' } },
+               		 	{ name: 'Koaderno-zuria-goi', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box bck-box-9' } },
+                		{ name: 'Koaderno-kuadrikulatua-goi', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box bck-box-10' } },
+                		{ name: 'Ikerketa-kaxa 1', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box bck-box-11' } },
+				{ name: 'Ikerketa-kaxa 2', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box bck-box-12' } },
+				{ name: 'Ikerketa-kaxa 3', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box bck-box-13' } },
+				{ name: 'Ikerketa-kaxa 4', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box bck-box-20' } },
+				{ name: 'Ikerketa-kaxa 5', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box bck-box-21' } },
+				{ name: 'Ikerketa-kaxa A', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box bck-box-15' } },
+				{ name: 'Ikerketa-kaxa B', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box bck-box-16' } },
+				{ name: 'Ikerketa-kaxa C', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box bck-box-17' } },
+				{ name: 'Ikerketa-kaxa D', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box bck-box-18' } },
+				{ name: 'Ikerketa-kaxa E', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box bck-box-19' } },
+				{ name: '14', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box bck-box-14' } },
 				{ name: 'Tabla', element: 'table', type: 'bck-stack-class', attributes: { 'class': 'bck-table'} },
 				{ name: 'Celda 1', element: 'td', attributes: { 'class': 'bck-td bck-td-1'} },
 				{ name: 'Celda 2', element: 'td', attributes: { 'class': 'bck-td bck-td-2'} },
 				{ name: 'Celda 3', element: 'td', attributes: { 'class': 'bck-td bck-td-3'} },
 				{ name: 'Celda 4', element: 'td', attributes: { 'class': 'bck-td bck-td-4'} },
-
 				{ name: 'Enlace web', element: 'a', attributes: { 'class': 'bck-link'} },
-
 				{ name: 'Desplegable 1', type: 'widget', widget: 'blink_dropdown', attributes: { 'class': 'bck-dropdown bck-dropdown-1' } },
 				{ name: 'Desplegable 2', type: 'widget', widget: 'blink_dropdown', attributes: { 'class': 'bck-dropdown bck-dropdown-2' } }
 			]
@@ -52,7 +112,7 @@
 			that.fillSlidesTitle();
 			that.getActualUnitActivities();
 			blink.events.on("course_loaded", function(){
-				parent.formatCarouselindicators();
+				that.formatCarouselindicators();
 				that.enableSliders();
 			});
 			that.animateNavbarOnScroll();
@@ -157,7 +217,7 @@
 			if(blink.courseInfo && blink.courseInfo.courseDateCreated) var courseYearCreated = new Date(blink.courseInfo.courseDateCreated).getFullYear();
 			var yearCopy = courseYearCreated !== undefined ? courseYearCreated : 2016;
 			$navbarBottom
-				.attr('class', 'cengage_demo-navbar')
+				.attr('class', 'ikaselkar_demo-navbar')
 				.wrapInner('<div class="navbar-content"></div>')
 				.find('ol')
 					.before('<span class="copyright">&copy;' +  yearCopy + '</span>')
@@ -327,48 +387,19 @@
 
 		animateNavbarOnScroll: function () {
 			if (!blink.isApp) return;
-			var $navbar = $('.cengage_demo-navbar');
+			var $navbar = $('.ikaselkar_demo-navbar');
 			var lastScrollTop = 0;
 			$('.js-slider-item').scroll(function () {
 				var scrollTop = $(this).scrollTop();
 				(scrollTop > lastScrollTop && scrollTop) ? $navbar.addClass('ocultar') : $navbar.removeClass('ocultar');
 				lastScrollTop = scrollTop;
 			});
-		},
-
-		// Busca la id de la última slide de un dropdown con la que se ha interactuado y
-		// guarda en el suspend data.
-		// @param {string} activePane 	Id del panel en el que se encuentra la slide
-		setActivePane : function (activePane) {
-			if (!!activePane && !!scormAPI) {
-				var slideId = $(activePane).find('.class_slide').attr('data-id'),
-					parentSlide = window['t' + window.activeSlide + '_slide'];
-				parentSlide.sublocation = slideId;
-			}
-		},
-
-		// Mira a ver si se ha guardado alguna slide del dropdown en el suspend data y,
-		// en caso de ser así, la pone como activa.
-		getActivePane : function () {
-			var currentSlide = window['t' + window.activeSlide + '_slide'];
-			if (currentSlide.sublocation) {
-				var activePane = $('.class_slide[data-id="' + currentSlide.sublocation + '"]')
-								.closest('.tab-pane'),
-					activeDropdown = $(activePane).closest('.bck-dropdown');
-				$(activeDropdown)
-					.find('a[href="#' + $(activePane).attr('id') + '"]')
-					.first()
-					.tab('show');
-				return true;
-			} else {
-				return true;
-			}
 		}
 	};
 
-	cengage_demoStyle.prototype = _.extend({}, new blink.theme.styles.basic(), cengage_demoStyle.prototype);
+	ikaselkar_demoStyle.prototype = _.extend({}, new blink.theme.styles.basic(), ikaselkar_demoStyle.prototype);
 
-	blink.theme.styles['cengage_demo'] = cengage_demoStyle;
+	blink.theme.styles['ikaselkar_demo'] = ikaselkar_demoStyle;
 
 })( blink );
 
