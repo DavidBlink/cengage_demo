@@ -697,8 +697,8 @@ body:not(.edit) .slider-indicators {
 #actividad .popover-content .bck-ol-2 li,
 #actividad .content .workspace ul li .bck-ol-2 li {
 	counter-increment: bck-li-counter;
-	padding-left: 4px;
-	position: relative;
+	position: absolute;
+	left:-12px;
 	z-index: 0;
 }
 
@@ -708,9 +708,7 @@ body:not(.edit) .slider-indicators {
 #actividad .content .workspace ul li ol.bck-ol-2 li:before {
 	content: counter(bck-li-counter);
 	color: #333;
-	font-weight: bold;
-    margin-top: 0;
-    padding-right: 10px;
+	font-weight: bold;    
     text-align: right;
 
 }
