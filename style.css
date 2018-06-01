@@ -574,7 +574,10 @@ body:not(.edit) .slider-indicators {
 .bck-enfasis-2 {
     color: #5888c3;
     font-style: italic;
-}
+
+.bck-enfasis-3 {
+    color: #728fab;
+ }
 
 /*LISTAS DESORDENADAS*/
 
