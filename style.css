@@ -571,6 +571,11 @@ body:not(.edit) .slider-indicators {
     font-weight: bold;
 }
 
+.bck-enfasis-2 {
+    color: #5888c3;
+    font-style: italic;
+}
+
 /*LISTAS DESORDENADAS*/
 
 .texto_curso ul li {
@@ -1639,4 +1644,5 @@ table td.bck-td-4 {
 		border-right-width: 20px;
 		bottom:0 ;
 	}
+
 }
