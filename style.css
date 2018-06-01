@@ -574,11 +574,12 @@ body:not(.edit) .slider-indicators {
 .bck-enfasis-2 {
     color: #5888c3;
     font-style: italic;
-}
+
+}    
 
 .bck-enfasis-3 {
     color: #728fab;
-}
+ }
 
 /*LISTAS DESORDENADAS*/
 
@@ -673,12 +674,12 @@ body:not(.edit) .slider-indicators {
 #actividad .popover-content .bck-ol-1 li:before,
 #actividad .content .workspace ul li .bck-ol-1 li:before {
 	top: 1px;
-	left: -30px;
+	left: -20px;
 	width: 25px;
 	content: counter(bck-li-counter);
     position: absolute;
     text-align: right;
-    color: red;
+    color: #ffffff;
     background: red;
     border-radius: 100%;
     text-align: center;
@@ -711,10 +712,10 @@ body:not(.edit) .slider-indicators {
 #actividad .popover-content ol.bck-ol-2 li:before,
 #actividad .content .workspace ul li ol.bck-ol-2 li:before {
 	content: counter(bck-li-counter, lower-alpha);
-	color: #9ACB1E;
+	color: #333;
 	font-weight: bold;
     margin-top: 0;
-    padding-right: 0px;
+    padding-right: 10px;
     text-align: right;
 }
 
