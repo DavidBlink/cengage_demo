@@ -657,7 +657,7 @@ body:not(.edit) .slider-indicators {
 #actividad .content .texto_curso .bck-ol li:before,
 #actividad .popover-content .bck-ol li:before,
 #actividad .content .workspace ul li .bck-ol li:before {
-	content: counter(bck-li-counter);
+    content: counter(bck-li-counter);
     position: relative;
     text-align: center;
     font-size: 1.9rem;
@@ -665,7 +665,7 @@ body:not(.edit) .slider-indicators {
     margin-left: -10px;
 }
 
-#actividad .content .cke_contents .bck-ol li:before,
+#actividad .content .cke_contents .bck-ol-1 li:before,
 #actividad .content .texto_curso .bck-ol-1 li:before,
 #actividad .popover-content .bck-ol-1 li:before,
 #actividad .content .workspace ul li .bck-ol-1 li:before {
