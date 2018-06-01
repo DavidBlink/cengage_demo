@@ -642,7 +642,7 @@ body:not(.edit) .slider-indicators {
 
 /*LISTAS ORDENADAS*/
 
-
+/*LISTA ORDENADA General*/
 
 #actividad .content .texto_curso .bck-ol li,
 #actividad .popover-content .bck-ol li,
@@ -652,7 +652,6 @@ body:not(.edit) .slider-indicators {
     position: relative;
 }
 
-/*LISTA ORDENADA General*/
 #actividad .content .cke_contents .bck-ol li:before,
 #actividad .content .texto_curso .bck-ol li:before,
 #actividad .popover-content .bck-ol li:before,
