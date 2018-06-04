@@ -845,11 +845,8 @@ body:not(.edit) .slider-indicators {
 /*CAJA2*/
 
 .bck-box.bck-box-2 {
-	background: #F3F4E2;
-	border: 2px solid #9BCB20;
-	-webkit-border-radius: 7px;
-	   -moz-border-radius: 7px;
-	        border-radius: 7px;
+	background: #fff;
+	border: 2px solid #b9d3e4;
 	text-align: left;
 }
 
