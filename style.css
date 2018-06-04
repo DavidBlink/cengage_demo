@@ -681,6 +681,7 @@ body:not(.edit) .slider-indicators {
 	padding-left: 4px;
 	position: relative;
 	z-index: 0;
+	font-weight: 600;
 }
 
 
@@ -694,7 +695,7 @@ body:not(.edit) .slider-indicators {
     position: absolute;
     text-align: right;
     color: #ffffff;
-    background: red;
+    background: #bf0811;
     margin-left: -42px;
     margin-right: 5px;
     border-radius: 100%;
