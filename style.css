@@ -548,12 +548,8 @@ body:not(.edit) .slider-indicators {
 #actividad .player.audio:before {
     content: "\f025";
     font-family: "fontawesome";
-    color: #fff;
 }
 
-#actividad .player.audio:before:hover {
-	color: #bf0811;
-}
 
 #actividad .player.audio {
 	    background-image: url(audio_icon.png);
@@ -563,6 +559,11 @@ body:not(.edit) .slider-indicators {
     background-size: 100%;
     background-position: 0;
     background-color: #9a999e;
+    color: #fff;
+}
+
+#actividad .player.audio:hover {
+	color: #bf0811;
 }
 
 
