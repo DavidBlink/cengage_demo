@@ -552,22 +552,21 @@ body:not(.edit) .slider-indicators {
 	background-color: transparent;
 }
 
+/*título genérico*/
 .bck-title {
-	border-bottom: 4px solid #eee;
-    color: #9acb1e;
+    color: #211915;
     font-size: 2.1rem;
     font-weight: bold;
+}
+
+.bck-title-intro {
+    font-size: 2.6rem;
 }
 
 .bck-title-1 {
     color: #6f6a66;
 }
 
-.bck-title-1:before {
-	content: '\f101';
-	margin-right: 10px;
-	font-family: 'FontAwesome';
-}
 
 .bck-title-3 {
     font-size: 1.7rem;
