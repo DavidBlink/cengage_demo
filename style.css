@@ -832,11 +832,13 @@ body:not(.edit) .slider-indicators {
     font-size: 2.1rem;
     font-weight: bold;
     background-color: #728fa6;
+    padding: 5px;
 
 }
 
 .bck-box.bck-box-1 .bck-content {
     padding-left: 80px;
+    background-color: #e3e4e6;
 }
 
 
