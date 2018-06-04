@@ -628,19 +628,13 @@ body:not(.edit) .slider-indicators {
 #actividad .content .texto_curso .bck-ul li:before,
 #actividad .content .workspace ul li .bck-ul li:before ,
 #actividad .popover-background.shown .popover-content > ul > li:before{
-	content: '\f192';
-    position: absolute;
-    top: initial;
-    left: 15px;
 	height: 6px;
     width: 6px;
-    background-color: transparent;
-	font-family: 'FontAwesome';
-	margin: 2px 5px 0 5px;
-	color: #9ac61e;
-	-webkit-border-radius: 50%;
-	   -moz-border-radius: 50%;
-	        border-radius: 50%;
+    background-color: #3a3636;
+    color: #000000;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    border-radius: 50%;
 }
 
 #actividad .popover-background.shown .popover-content > ul > li:before{
@@ -1292,6 +1286,10 @@ table td.bck-td-3 {
 
 table td.bck-td-4 {
 	background-color: #E6E7E8;
+}
+
+td, th {
+	padding-left: 10px;
 }
 
 /**/
