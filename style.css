@@ -921,9 +921,10 @@ body:not(.edit) .slider-indicators {
 }
 
 .bck-box.bck-box-3 .bck-content {
-	padding: 10px 25px;
-	border-top: 1px solid;
-	border-bottom: 1px solid;
+    padding: 5px 10px;
+    border-top: 1px solid;
+    border-bottom: 1px solid;
+    width: 80%;
 }
 
 .bck-box.bck-box-3 .bck-title {
