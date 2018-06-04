@@ -921,8 +921,10 @@ body:not(.edit) .slider-indicators {
     font-size: 2.1rem;
     font-weight: bold;
     background-color: #bf0811;
-    padding: 5px;
+    padding: 10px;
     text-align: left;
+    border-bottom: 2px solid;
+    border-color: #fff;
 
 }
 
