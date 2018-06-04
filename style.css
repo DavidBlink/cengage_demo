@@ -43,6 +43,13 @@ body {
 	background-color: #fff;
 }
 
+
+/*tamaño enunciado listas*/
+
+#actividad .pregunta .texto_curso {
+	    font-size: 1.8rem;
+}
+
 /*ENLACE WEB*/
 
 #actividad a {
