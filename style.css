@@ -1054,23 +1054,6 @@ body:not(.edit) .slider-indicators {
 }
 
 
-/*DESPLEGABLE COLOR ROJO*/
-
-.bck-dropdown.bck-dropdown-1 {
-    background-color: #bf0811;
-    border: 1px solid #DDDDDD;
-    margin-top: 10px;
-    -webkit-border-radius: 5px;
-    -moz-border-radius: 5px;
-    border-radius: 5px;
-}
-
-.bck-dropdown-1 .bck-dropdown-icon {
-    background-color: #bf0811;
-    width: 25px;
-    height: 10px;
-}
-
 
 /**/
 
@@ -1619,12 +1602,12 @@ td, th {
 /*Dropdown 1*/
 
 .bck-dropdown.bck-dropdown-1 {
-	background-color: #9ACB1E;
-	border: 1px solid #DDDDDD;
-	margin-top: 10px;
-	-webkit-border-radius: 5px;
-	   -moz-border-radius: 5px;
-	        border-radius: 5px;
+    background-color: #bf0811;
+    border: 1px solid #DDDDDD;
+    margin-top: 10px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
 }
 
 .bck-dropdown-1 .bck-dropdown-button {
@@ -1633,9 +1616,9 @@ td, th {
 }
 
 .bck-dropdown-1 .bck-dropdown-icon {
-	background-color: #9ACB1E;
-	width: 25px;
-	height: 10px;
+    background-color: #bf0811;
+    width: 25px;
+    height: 10px;
 }
 
 .bck-dropdown-1 .bck-dropdown-icon > .fa {
