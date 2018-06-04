@@ -987,6 +987,37 @@ body:not(.edit) .slider-indicators {
     border-color: #bf0811;
 }
 
+
+/*CAJA POP-UP*/
+
+.info-popover .popover-title:before, .popover-template .popover-title:before {
+	content: '\f040';
+    position: absolute;
+    top: 7px;
+    left: 13px;
+    width: 22px;
+    height: 22px;
+    -webkit-border-radius: 2px;
+    -moz-border-radius: 2px;
+    border-radius: 2px;
+    background: #fff;
+    color: #728fa6;
+    font-family: 'FontAwesome';
+    font-size: 18px;
+    text-align: center;
+    line-height: 22px;
+}
+
+.info-popover .popover-title, .popover-template .popover-title {
+	position: relative;
+    background: #728fa6;
+    padding-left: 46px;
+    color: #fff;
+    font-size: 2rem;
+}
+
+
+
 /**/
 
 /*ENLACES*/
