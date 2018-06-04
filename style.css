@@ -908,6 +908,28 @@ body:not(.edit) .slider-indicators {
 }
 
 
+/*CAJA4*/
+
+.bck-box.bck-box-1 {
+    min-height: 80px;
+    margin-top: 15px;
+}
+
+.bck-box-1 .bck-title {
+    border-bottom: 0px solid #eee;
+    color: #fff;
+    font-size: 2.1rem;
+    font-weight: bold;
+    background-color: #bf0811;
+    padding: 5px;
+
+}
+
+.bck-box.bck-box-1 .bck-content {
+    padding-left: 10px;
+    background-color: #e3e4e6;
+}
+
 /**/
 
 /*ENLACES*/
