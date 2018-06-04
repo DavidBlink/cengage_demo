@@ -891,6 +891,30 @@ body:not(.edit) .slider-indicators {
 	content: '';
 }
 
+/*CAJA3*/
+
+.bck-box.bck-box-3 {
+    min-height: 80px;
+    margin-top: 15px;
+}
+
+.bck-box-3 .bck-title {
+    border: 2px 0px 2px 0px solid;
+    border-color: #333;
+    color: #fff;
+    font-size: 2.1rem;
+    font-weight: bold;
+    background-color: #728fa6;
+    padding: 5px;
+
+}
+
+.bck-box.bck-box-3 .bck-content {
+    padding-left: 80px;
+    background-color: #e3e4e6;
+}
+
+
 /**/
 
 /*ENLACES*/
