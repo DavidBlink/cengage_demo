@@ -895,18 +895,19 @@ body:not(.edit) .slider-indicators {
 
 .bck-box.bck-box-3 {
 	background: #fff;
-	border: 2px solid #b9d3e4;
+	border: 0px;
 	text-align: left;
 }
 
 .bck-box.bck-box-3 .bck-content {
-	border: 0;
 	padding: 10px 25px;
+	border-top: 1px solid;
+	border-bottom: 1px solid;
 }
 
 .bck-box.bck-box-3 .bck-title {
 	padding: 10px 25px;
-	border: 0;
+	border: 0px;
 	color: #9BCB20;
 	font-size: 1.8rem;
 	font-weight: bold;
