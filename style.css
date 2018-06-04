@@ -570,6 +570,7 @@ body:not(.edit) .slider-indicators {
 
 .bck-title-3 {
     font-size: 1.7rem;
+    font-weight: 600;
 }
 
 .bck-enfasis {
@@ -687,7 +688,7 @@ body:not(.edit) .slider-indicators {
 	padding-left: 4px;
 	position: relative;
 	z-index: 0;
-	font-weight: 600;
+	font-weight: 700;
 }
 
 
