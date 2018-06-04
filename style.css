@@ -960,6 +960,34 @@ body:not(.edit) .slider-indicators {
     background-color: #e3e4e6;
 }
 
+
+/*CAJA5*/
+
+.bck-box.bck-box-5 {
+    min-height: 80px;
+    margin-top: 15px;
+}
+
+.bck-box-5 .bck-title {
+    border-bottom: 0px solid #eee;
+    color: #fff;
+    font-size: 2.1rem;
+    font-weight: bold;
+    background-color: #bf0811;
+    padding: 10px;
+    text-align: center;
+    border-bottom: 2px solid;
+    border-color: #fff;
+
+}
+
+.bck-box.bck-box-5 .bck-content {
+    padding: 5px;
+    background-color: #fff;
+    border: 2px solid;
+    border-color: #bf0811;
+}
+
 /**/
 
 /*ENLACES*/
