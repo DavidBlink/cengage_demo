@@ -80,9 +80,7 @@ body:not(.isTablet) #book-index #indice .units ul li:not(.disabled) a:hover, #bo
 	    background: #005b89;
 }
 
-#book-index #indice .unit-content .actividades .item {
-	    background-color: #deefee;
-}
+
 
 .libro-left #btn-book-index,
 #indice .unit-content {
@@ -116,7 +114,7 @@ body:not(.isTablet) #book-index #indice .units ul li:not(.disabled) a:hover, #bo
 #indice .units ul li.hover:not(.disabled),
 body:not(.isTablet) #indice .units ul li:hover:not(.disabled),
 #indice .units ul li:hover:not(.disabled) {
-    background: #00b6f0;
+    background: #65cdf3;
 }
 
 #book-index #indice .unit-content a,
@@ -142,7 +140,7 @@ body:not(.isTablet) #indice .units ul li:hover:not(.disabled),
 }
 
 #book-index #indice .unit-content .actividades .item {
-    background: #DEDA9D;
+    background: #deefee;
     margin: 0px -20px 2px -20px;
     padding-left: 25px;
     opacity: 1;
@@ -1467,7 +1465,7 @@ td, th {
 }
 
 .btn-primary, .btn-primary.disabled, .btn-primary.disabled:focus {
-    background-color: #9ACB1E;
+    background-color: #005b89;
 }
 
 /**/
