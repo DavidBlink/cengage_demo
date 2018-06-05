@@ -782,6 +782,7 @@ body:not(.edit) .slider-indicators {
 #actividad .content .workspace ul li .bck-ol-3 {
 	list-style-type: none;
 	counter-reset: bck-li-counter;
+	
 }
 
 #actividad .content .texto_curso .bck-ol-3 li,
@@ -796,7 +797,7 @@ body:not(.edit) .slider-indicators {
 #actividad .content .texto_curso ol.bck-ol-3 li:before,
 #actividad .popover-content ol.bck-ol-3 li:before,
 #actividad .content .workspace ul li ol.bck-ol-3 li:before {
-	content: counter(bck-li-counter, lower-alpha);
+	content: counter(bck-li-counter, upper-alpha)'';
     margin-top: 1px;
     padding-right: 0px;
 	color: #A9A9A9;
@@ -879,6 +880,7 @@ body:not(.edit) .slider-indicators {
 	background: #fff;
 	border: 2px solid #b9d3e4;
 	text-align: left;
+	margin-top: 20px;
 }
 
 .bck-box.bck-box-2 .bck-content {
@@ -935,7 +937,7 @@ body:not(.edit) .slider-indicators {
     border-top: 1px solid;
     border-bottom: 1px solid;
     width: 80%;
-    margin-left: 30px;
+    margin-left: 40px;
 }
 
 .bck-box.bck-box-3 .bck-title {
