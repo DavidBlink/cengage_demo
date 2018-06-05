@@ -1476,11 +1476,11 @@ td, th {
 /*Boton toc - boton reininciar ejercicio*/
 
 .btn-primary, .btn-primary.disabled, .btn-primary.disabled:focus {
-    background-color: #428bca;
+    background-color: #26679f;
 }
 
 .btn-primary[disabled], .btn-primary[disabled]:focus {
-    background-color: #428bca;
+    background-color: #26679f;
 }
 
 .btn-primary:hover, .btn-primary:focus, .btn-primary:active, .btn-primary.active, .open .dropdown-toggle.btn-primary {
