@@ -98,13 +98,13 @@ body {
 
 #indice .units ul li.active:not(.disabled),
 #indice .units ul li:focus:not(.disabled) {
-    background: #E76048;
+    background: #005b89;
 }
 
 #indice .units ul li.hover:not(.disabled),
 body:not(.isTablet) #indice .units ul li:hover:not(.disabled),
 #indice .units ul li:hover:not(.disabled) {
-    background: #EC968C;
+    background: #00b6f0;
 }
 
 #book-index #indice .unit-content a,
@@ -140,7 +140,7 @@ body:not(.isTablet) #book-index #indice .unit-content .actividades .item:hover,
 #book-index #indice .unit-content .actividades .item.active,
 #book-index #indice .unit-content .actividades .item.current {
 	color: #fff;
-    background: #EC968C;
+    background: #65cdf3;
 }
 
 body:not(.isTablet) #book-index #indice .unit-content .actividades .item:hover a,
@@ -152,7 +152,7 @@ body:not(.isTablet) #book-index #indice .unit-content .actividades .item:hover a
 body:not(.isTablet) #book-index #indice .unit-content .actividades .item:active,
 #book-index #indice .unit-content .actividades .item.active,
 #book-index #indice .unit-content .actividades .item.current {
-    background: #E35E47;
+    background: #009bdb;
 }
 
 #indice .unit-content .actividades .item.nivel_6 .title,
