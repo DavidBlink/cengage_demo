@@ -925,6 +925,7 @@ body:not(.edit) .slider-indicators {
     border-top: 1px solid;
     border-bottom: 1px solid;
     width: 80%;
+    margin-left: 30px;
 }
 
 .bck-box.bck-box-3 .bck-title {
