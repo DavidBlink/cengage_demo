@@ -714,7 +714,7 @@ body:not(.edit) .slider-indicators {
 #actividad .popover-content .bck-ol-1 li,
 #actividad .content .workspace ul li .bck-ol-1 li {
 	counter-increment: bck-li-counter;
-	padding-left: 4px;
+	padding-left: 0px;
 	position: relative;
 	z-index: 0;
 	font-weight: 700;
@@ -782,7 +782,7 @@ body:not(.edit) .slider-indicators {
 #actividad .content .workspace ul li .bck-ol-3 {
 	list-style-type: none;
 	counter-reset: bck-li-counter;
-	
+
 }
 
 #actividad .content .texto_curso .bck-ol-3 li,
