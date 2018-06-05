@@ -100,6 +100,10 @@ body:not(.isTablet) #book-index #indice .units ul li:not(.disabled) a:hover, #bo
     font-weight: 400;
 }
 
+#indice .unit-content .actividades .item .nota {
+	    background-color: #428bca;
+}
+
 #indice .units ul li {
 	-webkit-border-radius: 0px;
 	   -moz-border-radius: 0px;
@@ -1469,8 +1473,10 @@ td, th {
 }
 
 .btn-primary, .btn-primary.disabled, .btn-primary.disabled:focus {
-    background-color: #005b89;
+    background-color: #428bca;
 }
+
+
 
 /**/
 
