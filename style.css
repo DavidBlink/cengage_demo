@@ -71,6 +71,18 @@ body {
 }
 
 /*INDICE LATERAL*/
+body:not(.isTablet) #book-index #indice .units ul li:not(.disabled) a:hover, #book-index #indice .units ul li.active a {
+	background: #005b89;
+}
+
+
+#book-index .col-main {
+	    background: #005b89;
+}
+
+#book-index #indice .unit-content .actividades .item {
+	    background: #dde6f7;
+}
 
 .libro-left #btn-book-index,
 #indice .unit-content {
