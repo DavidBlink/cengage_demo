@@ -1479,9 +1479,10 @@ td, th {
     background-color: #428bca;
 }
 
-.btn-primary[disabled], .btn-primary[disabled]:focus {
-	    background-color: #115794;
+.btn-primary:hover, .btn-primary:focus, .btn-primary:active, .btn-primary.active, .open .dropdown-toggle.btn-primary {
+	background-color: ##2f74b0;
 }
+
 
 #actividad .content .review .attemps span {
     background-color: #009bdb;
