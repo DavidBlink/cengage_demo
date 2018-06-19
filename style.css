@@ -96,6 +96,28 @@ body:not(.isTablet) #book-index #indice .units ul li:not(.disabled) a:hover, #bo
             border-radius: 0;
 }
 
+#indice .unit-content .header .title {
+    color: #ed1b24;
+    background: #ffffff9e;
+    float: left;
+    font-size: 30px;
+    font-weight: 700;
+    /* height: 50px; */
+    line-height: 34px;
+    padding: 5px 20px;
+    margin: 5px 140px 20px 8px;
+    overflow: hidden;
+    z-index: 1;
+    display: block;
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    -o-text-overflow: ellipsis;
+    text-overflow: ellipsis;
+}
+
+
 #book-index #indice .unit-content .actividades .item .title {
     font-weight: 400;
 }
