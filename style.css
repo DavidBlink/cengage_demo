@@ -140,7 +140,7 @@ body:not(.isTablet) #book-index #indice .units ul li:not(.disabled) a:hover, #bo
 #indice .units ul li.hover:not(.disabled),
 body:not(.isTablet) #indice .units ul li:hover:not(.disabled),
 #indice .units ul li:hover:not(.disabled) {
-    background: #b9d9e1;
+    background: #8c0c12;
 }
 
 #book-index #indice .unit-content a,
@@ -1497,6 +1497,10 @@ td, th {
 
 /*Boton toc - boton reininciar ejercicio*/
 
+.btn-primary {
+    background-color: #428bcac9;
+}
+
 .btn-primary, .btn-primary.disabled, .btn-primary.disabled:focus {
     background-color: #bd0911;
 }
@@ -1513,6 +1517,24 @@ td, th {
 #actividad .content .review .attemps span {
     background-color: #d46065;
 }
+
+/*portada*/
+
+#actividad .portada .class_slide {
+    padding: 0px 97px 0px;
+   margin-top: -2%;
+}
+
+#actividad .carousel-inner .portada .item-container {
+    padding-bottom: 0px;
+}
+
+#actividad .content .portada img:not(.bck-cam-button) {
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+
 
 /**/
 
