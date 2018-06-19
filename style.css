@@ -176,7 +176,7 @@ body:not(.isTablet) #book-index #indice .unit-content .actividades .item:hover,
 #book-index #indice .unit-content .actividades .item.active,
 #book-index #indice .unit-content .actividades .item.current {
     color: #fff;
-    background: #1c94c5;
+    background: #e83535;
 }
 
 body:not(.isTablet) #book-index #indice .unit-content .actividades .item:hover a,
@@ -1511,7 +1511,7 @@ td, th {
 
 
 #actividad .content .review .attemps span {
-    background-color: #009bdb;
+    background-color: #d46065;
 }
 
 /**/
