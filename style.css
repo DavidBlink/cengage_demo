@@ -686,9 +686,7 @@ body:not(.edit) .slider-indicators {
 
 #actividad .content .texto_curso ul li:before,
 #actividad .content .workspace ul li ul li:before,
-#actividad .content .texto_curso .bck-ul li:before,
-#actividad .content .workspace ul li .bck-ul li:before ,
-#actividad .popover-background.shown .popover-content > ul > li:before{
+{
     height: 6px;
     width: 6px;
     background-color: #3a3636;
@@ -697,6 +695,20 @@ body:not(.edit) .slider-indicators {
     -moz-border-radius: 50%;
     border-radius: 50%;
 }
+
+
+#actividad .content .texto_curso .bck-ul li:before,
+#actividad .content .workspace ul li .bck-ul li:before ,
+#actividad .popover-background.shown .popover-content > ul > li:before{
+    height: 6px;
+    width: 6px;
+    background-color: #3a3636;
+    color: #333;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    border-radius: 50%;
+}
+
 
 #actividad .popover-background.shown .popover-content > ul > li:before{
      position: inherit;
@@ -1888,4 +1900,3 @@ td, th {
     }
 
 }
-
