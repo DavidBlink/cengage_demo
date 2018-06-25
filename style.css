@@ -404,13 +404,13 @@ body.is_app .cengage_demo-navbar.ocultar {
 .logo-publisher {
     float: left;
     display: block;
-    width: 40px;
-    height: 40px;
-    margin: 5px 0;
-    background: url(cengage_demo/images/logo transparente.png) center center / cover no-repeat;
+    width: 87px;
+    height: 35px;
+    margin: 9px 0;
+    background: url(../cengage_demo/images/logong.png) center center / cover no-repeat;
 }
 
-.edit .logo-publisher {
+.edit -publisher {
     top: 2px;
     width: 40px;
     height: 40px;
