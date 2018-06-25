@@ -407,7 +407,7 @@ body.is_app .cengage_demo-navbar.ocultar {
     width: 40px;
     height: 40px;
     margin: 5px 0;
-    background: url(logo.jpg) center center / cover no-repeat;
+    background: url(/images/logo transparente.png) center center / cover no-repeat;
 }
 
 .edit .logo-publisher {
