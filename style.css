@@ -678,10 +678,11 @@ body:not(.edit) .slider-indicators {
 #actividad .workspace.multiple-choice .js-item ul li:before,
 #actividad .workspace.matching .box ul li:before,
 #actividad .workspace.ordenar .js-rank-item ul li:before {
-    background-color: #AC218F;
-    -webkit-border-radius: 0%;
-       -moz-border-radius: 0%;
-            border-radius: 0%;
+    height: 6px;
+    width: 6px;
+    background-color: #3a3636;
+    color: #333;
+    border-radius: 50%;
 }
 
 #actividad .content .texto_curso ul li:before,
@@ -702,8 +703,7 @@ body:not(.edit) .slider-indicators {
 #actividad .popover-background.shown .popover-content > ul > li:before{
     height: 6px;
     width: 6px;
-    background-color: #3a3636;
-    color: #333;
+    background-color: #333;
     -webkit-border-radius: 50%;
     -moz-border-radius: 50%;
     border-radius: 50%;
@@ -1900,3 +1900,4 @@ td, th {
     }
 
 }
+
