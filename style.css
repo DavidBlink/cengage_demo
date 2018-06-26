@@ -685,6 +685,8 @@ body:not(.edit) .slider-indicators {
     border-radius: 50%;
 }
 
+/*lista desordenada por defecto, sin seleccionar estilo para la ul*/
+
 #actividad .content .texto_curso ul li:before,
 #actividad .content .workspace ul li ul li:before,
 {
@@ -697,16 +699,15 @@ body:not(.edit) .slider-indicators {
     border-radius: 50%;
 }
 
+/*lista desordenada */
 
 #actividad .content .texto_curso .bck-ul li:before,
 #actividad .content .workspace ul li .bck-ul li:before ,
 #actividad .popover-background.shown .popover-content > ul > li:before{
-    height: 6px;
-    width: 6px;
-    background-color: #333;
-    -webkit-border-radius: 50%;
-    -moz-border-radius: 50%;
-    border-radius: 50%;
+    height: 7px;
+    width: 7px;
+    background-color: #f00;
+    
 }
 
 
@@ -1900,5 +1901,4 @@ td, th {
     }
 
 }
-
 
