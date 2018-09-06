@@ -1,0 +1,617 @@
+%!Adobe-FontList 1.19
+%Locale:0xc0a
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaLTStd-ExtraComp
+FamilyName:Helvetica LT Std
+StyleName:Extra Compressed
+FullName:Helvetica LT Std Extra Compressed
+MenuName:Helvetica LT Std ExtCompressed
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:Z:\HTML\Año 2018\05. Contenido\Cengage\9781337277167_IDML_Packaged_files\PreInt_SB_77167_008-019_U01_BrE_CP2 Folder\PreInt_SB_77167_008-019_U01_BrE_CP2 Folder\Document fonts\HelveticaLTStd-ExtraComp.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:27080
+FileModTime:1496215032
+WeightClass:400
+WidthClass:1
+AngleClass:0
+DesignSize:120
+NameArray:0,Mac,18,Helvetica LT Std ExtCompressed
+NameArray:0,Mac,4,Helvetica LT Std Extra Compressed
+NameArray:0,Win,1,Helvetica LT Std ExtCompressed
+NameArray:0,Win,16,Helvetica LT Std
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaLTStd-UltraComp
+FamilyName:Helvetica LT Std
+StyleName:Ultra Compressed
+FullName:Helvetica LT Std Ultra Compressed
+MenuName:Helvetica LT Std UltCompressed
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:Z:\HTML\Año 2018\05. Contenido\Cengage\9781337277167_IDML_Packaged_files\PreInt_SB_77167_008-019_U01_BrE_CP2 Folder\PreInt_SB_77167_008-019_U01_BrE_CP2 Folder\Document fonts\HelveticaLTStd-UltraComp.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:27000
+FileModTime:1496215034
+WeightClass:400
+WidthClass:1
+AngleClass:0
+DesignSize:240
+NameArray:0,Mac,18,Helvetica LT Std UltCompressed
+NameArray:0,Mac,4,Helvetica LT Std Ultra Compressed
+NameArray:0,Win,1,Helvetica LT Std UltCompressed
+NameArray:0,Win,16,Helvetica LT Std
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:Z:\HTML\Año 2018\05. Contenido\Cengage\9781337277167_IDML_Packaged_files\PreInt_SB_77167_008-019_U01_BrE_CP2 Folder\PreInt_SB_77167_008-019_U01_BrE_CP2 Folder\Document fonts\HelveticaNeue.dfont
+FileModTime:1490202208
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaNeueLTStd-Blk
+FamilyName:Helvetica Neue LT Std
+StyleName:95 Black
+FullName:Helvetica Neue LT Std 95 Black
+MenuName:HelveticaNeueLT Std Blk
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:Z:\HTML\Año 2018\05. Contenido\Cengage\9781337277167_IDML_Packaged_files\PreInt_SB_77167_008-019_U01_BrE_CP2 Folder\PreInt_SB_77167_008-019_U01_BrE_CP2 Folder\Document fonts\HelveticaNeueLTStd-Blk.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:30564
+FileModTime:1496215034
+WeightClass:900
+WidthClass:5
+AngleClass:0
+DesignSize:120
+NameArray:0,Mac,18,HelveticaNeueLT Std Blk
+NameArray:0,Mac,4,Helvetica Neue LT Std 95 Black
+NameArray:0,Win,1,HelveticaNeueLT Std Blk
+NameArray:0,Win,16,Helvetica Neue LT Std
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:ITCAvantGardeStd-Demi
+FamilyName:ITC Avant Garde Gothic Std
+StyleName:Demi
+FullName:ITC Avant Garde Gothic Std Demi
+MenuName:ITC Avant Garde Std Bk
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:Z:\HTML\Año 2018\05. Contenido\Cengage\9781337277167_IDML_Packaged_files\PreInt_SB_77167_008-019_U01_BrE_CP2 Folder\PreInt_SB_77167_008-019_U01_BrE_CP2 Folder\Document fonts\ITCAvantGardeStd-Demi.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:33564
+FileModTime:1496215038
+WeightClass:600
+WidthClass:5
+AngleClass:0
+DesignSize:180
+NameArray:0,Mac,18,ITC Avant Garde Std Demi
+NameArray:0,Mac,4,ITC Avant Garde Gothic Std Demi
+NameArray:0,Win,1,ITC Avant Garde Std Bk
+NameArray:0,Win,16,ITC Avant Garde Gothic Std
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:ITCFranklinGothicStd-Book
+FamilyName:ITC Franklin Gothic Std
+StyleName:Book
+FullName:ITC Franklin Gothic Std Book
+MenuName:ITC Franklin Gothic Std Book
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:Z:\HTML\Año 2018\05. Contenido\Cengage\9781337277167_IDML_Packaged_files\PreInt_SB_77167_008-019_U01_BrE_CP2 Folder\PreInt_SB_77167_008-019_U01_BrE_CP2 Folder\Document fonts\ITCFranklinGothicStd-Book.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:30824
+FileModTime:1496215038
+WeightClass:400
+WidthClass:5
+AngleClass:0
+DesignSize:120
+NameArray:0,Mac,4,ITC Franklin Gothic Std Book
+NameArray:0,Win,1,ITC Franklin Gothic Std Book
+NameArray:0,Win,16,ITC Franklin Gothic Std
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:ITCGaramondStd-Bd
+FamilyName:ITC Garamond Std
+StyleName:Bold
+FullName:ITC Garamond Std Bold
+MenuName:ITC Garamond Std Book
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:Z:\HTML\Año 2018\05. Contenido\Cengage\9781337277167_IDML_Packaged_files\PreInt_SB_77167_008-019_U01_BrE_CP2 Folder\PreInt_SB_77167_008-019_U01_BrE_CP2 Folder\Document fonts\ITCGaramondStd-Bd.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:45560
+FileModTime:1496215038
+WeightClass:700
+WidthClass:5
+AngleClass:0
+DesignSize:120
+NameArray:0,Mac,4,ITC Garamond Std Bold
+NameArray:0,Win,1,ITC Garamond Std Book
+NameArray:0,Win,16,ITC Garamond Std
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:ITCGaramondStd-Lt
+FamilyName:ITC Garamond Std
+StyleName:Light
+FullName:ITC Garamond Std Light
+MenuName:ITC Garamond Std Lt
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:Z:\HTML\Año 2018\05. Contenido\Cengage\9781337277167_IDML_Packaged_files\PreInt_SB_77167_008-019_U01_BrE_CP2 Folder\PreInt_SB_77167_008-019_U01_BrE_CP2 Folder\Document fonts\ITCGaramondStd-Lt.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:40280
+FileModTime:1496215040
+WeightClass:300
+WidthClass:5
+AngleClass:0
+DesignSize:120
+NameArray:0,Mac,18,ITC Garamond Std Lt
+NameArray:0,Mac,4,ITC Garamond Std Light
+NameArray:0,Win,1,ITC Garamond Std Lt
+NameArray:0,Win,16,ITC Garamond Std
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:ITCGaramondStd-LtIta
+FamilyName:ITC Garamond Std
+StyleName:Light Italic
+FullName:ITC Garamond Std Light Italic
+MenuName:ITC Garamond Std Lt
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:Z:\HTML\Año 2018\05. Contenido\Cengage\9781337277167_IDML_Packaged_files\PreInt_SB_77167_008-019_U01_BrE_CP2 Folder\PreInt_SB_77167_008-019_U01_BrE_CP2 Folder\Document fonts\ITCGaramondStd-LtIta.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:43836
+FileModTime:1496215040
+WeightClass:300
+WidthClass:5
+AngleClass:1
+DesignSize:120
+NameArray:0,Mac,18,ITC Garamond Std Lt It
+NameArray:0,Mac,4,ITC Garamond Std Light Italic
+NameArray:0,Win,1,ITC Garamond Std Lt
+NameArray:0,Win,16,ITC Garamond Std
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MinionPro-Medium
+FamilyName:Minion Pro
+StyleName:Medium
+FullName:Minion Pro Medium
+MenuName:Minion Pro Med
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:Z:\HTML\Año 2018\05. Contenido\Cengage\9781337277167_IDML_Packaged_files\PreInt_SB_77167_008-019_U01_BrE_CP2 Folder\PreInt_SB_77167_008-019_U01_BrE_CP2 Folder\Document fonts\MinionPro-Medium.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:236940
+FileModTime:1496215088
+WeightClass:500
+WidthClass:5
+AngleClass:0
+DesignSize:110
+NameArray:0,Mac,18,Minion Pro Med
+NameArray:0,Mac,4,Minion Pro Medium
+NameArray:0,Win,1,Minion Pro Med
+NameArray:0,Win,16,Minion Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MinionPro-Semibold
+FamilyName:Minion Pro
+StyleName:Semibold
+FullName:Minion Pro Semibold
+MenuName:Minion Pro SmBd
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:Z:\HTML\Año 2018\05. Contenido\Cengage\9781337277167_IDML_Packaged_files\PreInt_SB_77167_008-019_U01_BrE_CP2 Folder\PreInt_SB_77167_008-019_U01_BrE_CP2 Folder\Document fonts\MinionPro-Semibold.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:237800
+FileModTime:1496215092
+WeightClass:600
+WidthClass:5
+AngleClass:0
+DesignSize:110
+NameArray:0,Mac,18,Minion Pro SmBd
+NameArray:0,Mac,4,Minion Pro Semibold
+NameArray:0,Win,1,Minion Pro SmBd
+NameArray:0,Win,16,Minion Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MyriadPro-Black
+FamilyName:Myriad Pro
+StyleName:Black
+FullName:Myriad Pro Black
+MenuName:Myriad Pro Black
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:Z:\HTML\Año 2018\05. Contenido\Cengage\9781337277167_IDML_Packaged_files\PreInt_SB_77167_008-019_U01_BrE_CP2 Folder\PreInt_SB_77167_008-019_U01_BrE_CP2 Folder\Document fonts\MyriadPro-Black.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:97944
+FileModTime:1496215100
+WeightClass:900
+WidthClass:5
+AngleClass:0
+DesignSize:110
+NameArray:0,Mac,4,Myriad Pro Black
+NameArray:0,Win,1,Myriad Pro Black
+NameArray:0,Win,16,Myriad Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MyriadPro-Bold
+FamilyName:Myriad Pro
+StyleName:Bold
+FullName:Myriad Pro Bold
+MenuName:Myriad Pro
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:Z:\HTML\Año 2018\05. Contenido\Cengage\9781337277167_IDML_Packaged_files\PreInt_SB_77167_008-019_U01_BrE_CP2 Folder\PreInt_SB_77167_008-019_U01_BrE_CP2 Folder\Document fonts\MyriadPro-Bold.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:97332
+FileModTime:1496215100
+WeightClass:700
+WidthClass:5
+AngleClass:0
+DesignSize:110
+NameArray:0,Mac,4,Myriad Pro Bold
+NameArray:0,Win,1,Myriad Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MyriadPro-BoldSemiCn
+FamilyName:Myriad Pro
+StyleName:Bold SemiCondensed
+FullName:Myriad Pro Bold SemiCondensed
+MenuName:Myriad Pro SemiCond
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:Z:\HTML\Año 2018\05. Contenido\Cengage\9781337277167_IDML_Packaged_files\PreInt_SB_77167_008-019_U01_BrE_CP2 Folder\PreInt_SB_77167_008-019_U01_BrE_CP2 Folder\Document fonts\MyriadPro-BoldSemiCn.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:97288
+FileModTime:1496215102
+WeightClass:700
+WidthClass:4
+AngleClass:0
+DesignSize:110
+NameArray:0,Mac,18,Myriad Pro Bold SemiCond
+NameArray:0,Mac,4,Myriad Pro Bold SemiCondensed
+NameArray:0,Win,1,Myriad Pro SemiCond
+NameArray:0,Win,16,Myriad Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MyriadPro-It
+FamilyName:Myriad Pro
+StyleName:Italic
+FullName:Myriad Pro Italic
+MenuName:Myriad Pro
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:Z:\HTML\Año 2018\05. Contenido\Cengage\9781337277167_IDML_Packaged_files\PreInt_SB_77167_008-019_U01_BrE_CP2 Folder\PreInt_SB_77167_008-019_U01_BrE_CP2 Folder\Document fonts\MyriadPro-It.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:99788
+FileModTime:1496215102
+WeightClass:400
+WidthClass:5
+AngleClass:1
+DesignSize:110
+NameArray:0,Mac,18,Myriad Pro It
+NameArray:0,Mac,4,Myriad Pro Italic
+NameArray:0,Win,1,Myriad Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MyriadPro-LightSemiCn
+FamilyName:Myriad Pro
+StyleName:Light SemiCondensed
+FullName:Myriad Pro Light SemiCondensed
+MenuName:Myriad Pro Light SemiCond
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:Z:\HTML\Año 2018\05. Contenido\Cengage\9781337277167_IDML_Packaged_files\PreInt_SB_77167_008-019_U01_BrE_CP2 Folder\PreInt_SB_77167_008-019_U01_BrE_CP2 Folder\Document fonts\MyriadPro-LightSemiCn.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:94340
+FileModTime:1496215102
+WeightClass:300
+WidthClass:4
+AngleClass:0
+DesignSize:110
+NameArray:0,Mac,18,Myriad Pro Light SemiCond
+NameArray:0,Mac,4,Myriad Pro Light SemiCondensed
+NameArray:0,Win,1,Myriad Pro Light SemiCond
+NameArray:0,Win,16,Myriad Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MyriadPro-LightSemiCnIt
+FamilyName:Myriad Pro
+StyleName:Light SemiCondensed Italic
+FullName:Myriad Pro Light SemiCondensed Italic
+MenuName:Myriad Pro Light SemiCond
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:Z:\HTML\Año 2018\05. Contenido\Cengage\9781337277167_IDML_Packaged_files\PreInt_SB_77167_008-019_U01_BrE_CP2 Folder\PreInt_SB_77167_008-019_U01_BrE_CP2 Folder\Document fonts\MyriadPro-LightSemiCnIt.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:99584
+FileModTime:1496215102
+WeightClass:300
+WidthClass:4
+AngleClass:1
+DesignSize:110
+NameArray:0,Mac,18,Myriad Pro Light SemiCond It
+NameArray:0,Mac,4,Myriad Pro Light SemiCondensed Italic
+NameArray:0,Win,1,Myriad Pro Light SemiCond
+NameArray:0,Win,16,Myriad Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MyriadPro-Regular
+FamilyName:Myriad Pro
+StyleName:Regular
+FullName:Myriad Pro
+MenuName:Myriad Pro
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:Z:\HTML\Año 2018\05. Contenido\Cengage\9781337277167_IDML_Packaged_files\PreInt_SB_77167_008-019_U01_BrE_CP2 Folder\PreInt_SB_77167_008-019_U01_BrE_CP2 Folder\Document fonts\MyriadPro-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:95984
+FileModTime:1496215102
+WeightClass:400
+WidthClass:5
+AngleClass:0
+DesignSize:110
+NameArray:0,Mac,4,Myriad Pro
+NameArray:0,Win,1,Myriad Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MyriadPro-Semibold
+FamilyName:Myriad Pro
+StyleName:Semibold
+FullName:Myriad Pro Semibold
+MenuName:Myriad Pro Light
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:Z:\HTML\Año 2018\05. Contenido\Cengage\9781337277167_IDML_Packaged_files\PreInt_SB_77167_008-019_U01_BrE_CP2 Folder\PreInt_SB_77167_008-019_U01_BrE_CP2 Folder\Document fonts\MyriadPro-Semibold.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:97332
+FileModTime:1496215104
+WeightClass:600
+WidthClass:5
+AngleClass:0
+DesignSize:110
+NameArray:0,Mac,4,Myriad Pro Semibold
+NameArray:0,Win,1,Myriad Pro Light
+NameArray:0,Win,16,Myriad Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MyriadPro-SemiboldSemiCn
+FamilyName:Myriad Pro
+StyleName:Semibold SemiCondensed
+FullName:Myriad Pro Semibold SemiCondensed
+MenuName:Myriad Pro Light SemiCond
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:Z:\HTML\Año 2018\05. Contenido\Cengage\9781337277167_IDML_Packaged_files\PreInt_SB_77167_008-019_U01_BrE_CP2 Folder\PreInt_SB_77167_008-019_U01_BrE_CP2 Folder\Document fonts\MyriadPro-SemiboldSemiCn.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:96880
+FileModTime:1496215104
+WeightClass:600
+WidthClass:4
+AngleClass:0
+DesignSize:110
+NameArray:0,Mac,18,Myriad Pro Semibold SemiCond
+NameArray:0,Mac,4,Myriad Pro Semibold SemiCondensed
+NameArray:0,Win,1,Myriad Pro Light SemiCond
+NameArray:0,Win,16,Myriad Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MyriadPro-SemiboldSemiCnIt
+FamilyName:Myriad Pro
+StyleName:Semibold SemiCondensed Italic
+FullName:Myriad Pro Semibold SemiCondensed Italic
+MenuName:Myriad Pro Light SemiCond
+StyleBits:3
+WritingScript:Roman
+OutlineFileName:Z:\HTML\Año 2018\05. Contenido\Cengage\9781337277167_IDML_Packaged_files\PreInt_SB_77167_008-019_U01_BrE_CP2 Folder\PreInt_SB_77167_008-019_U01_BrE_CP2 Folder\Document fonts\MyriadPro-SemiboldSemiCnIt.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:102168
+FileModTime:1496215104
+WeightClass:600
+WidthClass:4
+AngleClass:1
+DesignSize:110
+NameArray:0,Mac,18,Myriad Pro Semibold SemiCond It
+NameArray:0,Mac,4,Myriad Pro Semibold SemiCondensed Italic
+NameArray:0,Win,1,Myriad Pro Light SemiCond
+NameArray:0,Win,16,Myriad Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MyriadPro-SemiCn
+FamilyName:Myriad Pro
+StyleName:SemiCondensed
+FullName:Myriad Pro SemiCondensed
+MenuName:Myriad Pro SemiCond
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:Z:\HTML\Año 2018\05. Contenido\Cengage\9781337277167_IDML_Packaged_files\PreInt_SB_77167_008-019_U01_BrE_CP2 Folder\PreInt_SB_77167_008-019_U01_BrE_CP2 Folder\Document fonts\MyriadPro-SemiCn.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:96436
+FileModTime:1496215102
+WeightClass:400
+WidthClass:4
+AngleClass:0
+DesignSize:110
+NameArray:0,Mac,18,Myriad Pro SemiCond
+NameArray:0,Mac,4,Myriad Pro SemiCondensed
+NameArray:0,Win,1,Myriad Pro SemiCond
+NameArray:0,Win,16,Myriad Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MyriadPro-SemiCnIt
+FamilyName:Myriad Pro
+StyleName:SemiCondensed Italic
+FullName:Myriad Pro SemiCondensed Italic
+MenuName:Myriad Pro SemiCond
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:Z:\HTML\Año 2018\05. Contenido\Cengage\9781337277167_IDML_Packaged_files\PreInt_SB_77167_008-019_U01_BrE_CP2 Folder\PreInt_SB_77167_008-019_U01_BrE_CP2 Folder\Document fonts\MyriadPro-SemiCnIt.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:101028
+FileModTime:1496215102
+WeightClass:400
+WidthClass:4
+AngleClass:1
+DesignSize:110
+NameArray:0,Mac,18,Myriad Pro SemiCondIt
+NameArray:0,Mac,4,Myriad Pro SemiCondensed Italic
+NameArray:0,Win,1,Myriad Pro SemiCond
+NameArray:0,Win,16,Myriad Pro
+%EndFont
+

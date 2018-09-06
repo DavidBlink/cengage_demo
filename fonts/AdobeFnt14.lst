@@ -1,0 +1,921 @@
+%!Adobe-FontList 1.14
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaLTStd-ExtraComp
+FamilyName:Helvetica LT Std
+StyleName:Extra Compressed
+MenuName:Helvetica LT Std ExtCompressed
+StyleBits:0
+WeightClass:400
+WidthClass:1
+AngleClass:0
+FullName:Helvetica LT Std Extra Compressed
+WritingScript:Roman
+OutlineFileName:\HelveticaLTStd-ExtraComp.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:27080
+FileModTime:1496222232
+DesignSize:120
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaLTStd-UltraComp
+FamilyName:Helvetica LT Std
+StyleName:Ultra Compressed
+MenuName:Helvetica LT Std UltCompressed
+StyleBits:0
+WeightClass:400
+WidthClass:1
+AngleClass:0
+FullName:Helvetica LT Std Ultra Compressed
+WritingScript:Roman
+OutlineFileName:\HelveticaLTStd-UltraComp.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:27000
+FileModTime:1496222233
+DesignSize:240
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:HelveticaNeue-Bold
+FamilyName:Helvetica Neue
+StyleName:Bold
+MenuName:Helvetica Neue
+StyleBits:2
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:Helvetica Neue Bold
+WritingScript:Roman
+OutlineFileName:\HelveticaNeue.dfont
+DataFormat:sfntResource
+ResourceID:14151
+FileLength:6739979
+FileModTime:1490205808
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:HelveticaNeue
+FamilyName:Helvetica Neue
+StyleName:Regular
+MenuName:Helvetica Neue
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Helvetica Neue
+WritingScript:Roman
+OutlineFileName:\HelveticaNeue.dfont
+DataFormat:sfntResource
+ResourceID:15445
+FileLength:6739979
+FileModTime:1490205808
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:HelveticaNeue-UltraLight
+FamilyName:Helvetica Neue
+StyleName:UltraLight
+MenuName:Helvetica Neue
+StyleBits:0
+WeightClass:100
+WidthClass:5
+AngleClass:0
+FullName:Helvetica Neue UltraLight
+WritingScript:Roman
+OutlineFileName:\HelveticaNeue.dfont
+DataFormat:sfntResource
+ResourceID:8110
+FileLength:6739979
+FileModTime:1490205808
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:HelveticaNeue-Italic
+FamilyName:Helvetica Neue
+StyleName:Italic
+MenuName:Helvetica Neue
+StyleBits:1
+WeightClass:400
+WidthClass:5
+AngleClass:1
+FullName:Helvetica Neue Italic
+WritingScript:Roman
+OutlineFileName:\HelveticaNeue.dfont
+DataFormat:sfntResource
+ResourceID:18772
+FileLength:6739979
+FileModTime:1490205808
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:HelveticaNeue-Light
+FamilyName:Helvetica Neue
+StyleName:Light
+MenuName:Helvetica Neue
+StyleBits:0
+WeightClass:300
+WidthClass:5
+AngleClass:0
+FullName:Helvetica Neue Light
+WritingScript:Roman
+OutlineFileName:\HelveticaNeue.dfont
+DataFormat:sfntResource
+ResourceID:20609
+FileLength:6739979
+FileModTime:1490205808
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:HelveticaNeue-UltraLightItalic
+FamilyName:Helvetica Neue
+StyleName:UltraLight Italic
+MenuName:Helvetica Neue
+StyleBits:1
+WeightClass:100
+WidthClass:5
+AngleClass:1
+FullName:Helvetica Neue UltraLight Italic
+WritingScript:Roman
+OutlineFileName:\HelveticaNeue.dfont
+DataFormat:sfntResource
+ResourceID:24685
+FileLength:6739979
+FileModTime:1490205808
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:HelveticaNeue-CondensedBlack
+FamilyName:Helvetica Neue
+StyleName:Condensed Black
+MenuName:Helvetica Neue
+StyleBits:2
+WeightClass:900
+WidthClass:3
+AngleClass:0
+FullName:Helvetica Neue Condensed Black
+WritingScript:Roman
+OutlineFileName:\HelveticaNeue.dfont
+DataFormat:sfntResource
+ResourceID:28134
+FileLength:6739979
+FileModTime:1490205808
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:HelveticaNeue-CondensedBold
+FamilyName:Helvetica Neue
+StyleName:Condensed Bold
+MenuName:Helvetica Neue
+StyleBits:2
+WeightClass:700
+WidthClass:3
+AngleClass:0
+FullName:Helvetica Neue Condensed Bold
+WritingScript:Roman
+OutlineFileName:\HelveticaNeue.dfont
+DataFormat:sfntResource
+ResourceID:30606
+FileLength:6739979
+FileModTime:1490205808
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:HelveticaNeue-BoldItalic
+FamilyName:Helvetica Neue
+StyleName:Bold Italic
+MenuName:Helvetica Neue
+StyleBits:3
+WeightClass:700
+WidthClass:5
+AngleClass:1
+FullName:Helvetica Neue Bold Italic
+WritingScript:Roman
+OutlineFileName:\HelveticaNeue.dfont
+DataFormat:sfntResource
+ResourceID:12888
+FileLength:6739979
+FileModTime:1490205808
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:HelveticaNeue-LightItalic
+FamilyName:Helvetica Neue
+StyleName:Light Italic
+MenuName:Helvetica Neue
+StyleBits:1
+WeightClass:300
+WidthClass:5
+AngleClass:1
+FullName:Helvetica Neue Light Italic
+WritingScript:Roman
+OutlineFileName:\HelveticaNeue.dfont
+DataFormat:sfntResource
+ResourceID:13514
+FileLength:6739979
+FileModTime:1490205808
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:HelveticaNeue-Medium
+FamilyName:Helvetica Neue
+StyleName:Medium
+MenuName:Helvetica Neue
+StyleBits:0
+WeightClass:500
+WidthClass:5
+AngleClass:0
+FullName:Helvetica Neue Medium
+WritingScript:Roman
+OutlineFileName:\HelveticaNeue.dfont
+DataFormat:sfntResource
+ResourceID:14242
+FileLength:6739979
+FileModTime:1490205808
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:HelveticaNeue-Thin
+FamilyName:Helvetica Neue
+StyleName:Thin
+MenuName:Helvetica Neue
+StyleBits:0
+WeightClass:200
+WidthClass:5
+AngleClass:0
+FullName:Helvetica Neue Thin
+WritingScript:Roman
+OutlineFileName:\HelveticaNeue.dfont
+DataFormat:sfntResource
+ResourceID:14243
+FileLength:6739979
+FileModTime:1490205808
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:HelveticaNeue-ThinItalic
+FamilyName:Helvetica Neue
+StyleName:Thin Italic
+MenuName:Helvetica Neue
+StyleBits:0
+WeightClass:200
+WidthClass:5
+AngleClass:0
+FullName:Helvetica Neue Thin Italic
+WritingScript:Roman
+OutlineFileName:\HelveticaNeue.dfont
+DataFormat:sfntResource
+ResourceID:14244
+FileLength:6739979
+FileModTime:1490205808
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:HelveticaNeue-MediumItalic
+FamilyName:Helvetica Neue
+StyleName:Medium Italic
+MenuName:Helvetica Neue
+StyleBits:0
+WeightClass:500
+WidthClass:5
+AngleClass:0
+FullName:Helvetica Neue Medium Italic
+WritingScript:Roman
+OutlineFileName:\HelveticaNeue.dfont
+DataFormat:sfntResource
+ResourceID:14245
+FileLength:6739979
+FileModTime:1490205808
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Suitcase
+FontName:HelveticaNeue
+OutlineFileName:\HelveticaNeue.dfont
+ResourceID:4684
+MacStyle:0
+FileLength:6739979
+FileModTime:1490205808
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Suitcase
+FontName:HelveticaNeue-Bold
+OutlineFileName:\HelveticaNeue.dfont
+ResourceID:4684
+MacStyle:1
+FileLength:6739979
+FileModTime:1490205808
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Suitcase
+FontName:HelveticaNeue-Italic
+OutlineFileName:\HelveticaNeue.dfont
+ResourceID:4684
+MacStyle:2
+FileLength:6739979
+FileModTime:1490205808
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Suitcase
+FontName:HelveticaNeue-BoldItalic
+OutlineFileName:\HelveticaNeue.dfont
+ResourceID:4684
+MacStyle:3
+FileLength:6739979
+FileModTime:1490205808
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Suitcase
+FontName:HelveticaNeue-CondensedBold
+OutlineFileName:\HelveticaNeue.dfont
+ResourceID:4685
+MacStyle:0
+FileLength:6739979
+FileModTime:1490205808
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Suitcase
+FontName:HelveticaNeue-UltraLight
+OutlineFileName:\HelveticaNeue.dfont
+ResourceID:4688
+MacStyle:0
+FileLength:6739979
+FileModTime:1490205808
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Suitcase
+FontName:HelveticaNeue-UltraLightItalic
+OutlineFileName:\HelveticaNeue.dfont
+ResourceID:4688
+MacStyle:2
+FileLength:6739979
+FileModTime:1490205808
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Suitcase
+FontName:HelveticaNeue-Light
+OutlineFileName:\HelveticaNeue.dfont
+ResourceID:4846
+MacStyle:0
+FileLength:6739979
+FileModTime:1490205808
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Suitcase
+FontName:HelveticaNeue-LightItalic
+OutlineFileName:\HelveticaNeue.dfont
+ResourceID:4846
+MacStyle:2
+FileLength:6739979
+FileModTime:1490205808
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Suitcase
+FontName:HelveticaNeue-CondensedBlack
+OutlineFileName:\HelveticaNeue.dfont
+ResourceID:4889
+MacStyle:0
+FileLength:6739979
+FileModTime:1490205808
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Suitcase
+FontName:HelveticaNeue-Medium
+OutlineFileName:\HelveticaNeue.dfont
+ResourceID:128
+MacStyle:0
+FileLength:6739979
+FileModTime:1490205808
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Suitcase
+FontName:HelveticaNeue-MediumItalic
+OutlineFileName:\HelveticaNeue.dfont
+ResourceID:128
+MacStyle:2
+FileLength:6739979
+FileModTime:1490205808
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Suitcase
+FontName:HelveticaNeue-Thin
+OutlineFileName:\HelveticaNeue.dfont
+ResourceID:4848
+MacStyle:0
+FileLength:6739979
+FileModTime:1490205808
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Suitcase
+FontName:HelveticaNeue-ThinItalic
+OutlineFileName:\HelveticaNeue.dfont
+ResourceID:4848
+MacStyle:2
+FileLength:6739979
+FileModTime:1490205808
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaNeueLTStd-Blk
+FamilyName:Helvetica Neue LT Std
+StyleName:95 Black
+MenuName:HelveticaNeueLT Std Blk
+StyleBits:0
+WeightClass:900
+WidthClass:5
+AngleClass:0
+FullName:Helvetica Neue LT Std 95 Black
+WritingScript:Roman
+OutlineFileName:\HelveticaNeueLTStd-Blk.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:30564
+FileModTime:1496222233
+DesignSize:120
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:ITCAvantGardeStd-Demi
+FamilyName:ITC Avant Garde Gothic Std
+StyleName:Demi
+MenuName:ITC Avant Garde Std Bk
+StyleBits:2
+WeightClass:600
+WidthClass:5
+AngleClass:0
+FullName:ITC Avant Garde Gothic Std Demi
+WritingScript:Roman
+OutlineFileName:\ITCAvantGardeStd-Demi.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:33564
+FileModTime:1496222237
+DesignSize:180
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:ITCFranklinGothicStd-Book
+FamilyName:ITC Franklin Gothic Std
+StyleName:Book
+MenuName:ITC Franklin Gothic Std Book
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:ITC Franklin Gothic Std Book
+WritingScript:Roman
+OutlineFileName:\ITCFranklinGothicStd-Book.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:30824
+FileModTime:1496222238
+DesignSize:120
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:ITCGaramondStd-Bd
+FamilyName:ITC Garamond Std
+StyleName:Bold
+MenuName:ITC Garamond Std Book
+StyleBits:2
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:ITC Garamond Std Bold
+WritingScript:Roman
+OutlineFileName:\ITCGaramondStd-Bd.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:45560
+FileModTime:1496222238
+DesignSize:120
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:ITCGaramondStd-Lt
+FamilyName:ITC Garamond Std
+StyleName:Light
+MenuName:ITC Garamond Std Lt
+StyleBits:0
+WeightClass:300
+WidthClass:5
+AngleClass:0
+FullName:ITC Garamond Std Light
+WritingScript:Roman
+OutlineFileName:\ITCGaramondStd-Lt.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:40280
+FileModTime:1496222239
+DesignSize:120
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:ITCGaramondStd-LtIta
+FamilyName:ITC Garamond Std
+StyleName:Light Italic
+MenuName:ITC Garamond Std Lt
+StyleBits:1
+WeightClass:300
+WidthClass:5
+AngleClass:1
+FullName:ITC Garamond Std Light Italic
+WritingScript:Roman
+OutlineFileName:\ITCGaramondStd-LtIta.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:43836
+FileModTime:1496222239
+DesignSize:120
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MinionPro-Medium
+FamilyName:Minion Pro
+StyleName:Medium
+MenuName:Minion Pro Med
+StyleBits:0
+WeightClass:500
+WidthClass:5
+AngleClass:0
+FullName:Minion Pro Medium
+WritingScript:Roman
+OutlineFileName:\MinionPro-Medium.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:236940
+FileModTime:1496222288
+DesignSize:110
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MinionPro-Semibold
+FamilyName:Minion Pro
+StyleName:Semibold
+MenuName:Minion Pro SmBd
+StyleBits:0
+WeightClass:600
+WidthClass:5
+AngleClass:0
+FullName:Minion Pro Semibold
+WritingScript:Roman
+OutlineFileName:\MinionPro-Semibold.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:237800
+FileModTime:1496222291
+DesignSize:110
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MyriadPro-Black
+FamilyName:Myriad Pro
+StyleName:Black
+MenuName:Myriad Pro Black
+StyleBits:0
+WeightClass:900
+WidthClass:5
+AngleClass:0
+FullName:Myriad Pro Black
+WritingScript:Roman
+OutlineFileName:\MyriadPro-Black.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:97944
+FileModTime:1496222299
+DesignSize:110
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MyriadPro-Bold
+FamilyName:Myriad Pro
+StyleName:Bold
+MenuName:Myriad Pro
+StyleBits:2
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:Myriad Pro Bold
+WritingScript:Roman
+OutlineFileName:\MyriadPro-Bold.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:97332
+FileModTime:1496222300
+DesignSize:110
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MyriadPro-BoldSemiCn
+FamilyName:Myriad Pro
+StyleName:Bold SemiCondensed
+MenuName:Myriad Pro SemiCond
+StyleBits:2
+WeightClass:700
+WidthClass:4
+AngleClass:0
+FullName:Myriad Pro Bold SemiCondensed
+WritingScript:Roman
+OutlineFileName:\MyriadPro-BoldSemiCn.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:97288
+FileModTime:1496222301
+DesignSize:110
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MyriadPro-It
+FamilyName:Myriad Pro
+StyleName:Italic
+MenuName:Myriad Pro
+StyleBits:1
+WeightClass:400
+WidthClass:5
+AngleClass:1
+FullName:Myriad Pro Italic
+WritingScript:Roman
+OutlineFileName:\MyriadPro-It.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:99788
+FileModTime:1496222301
+DesignSize:110
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MyriadPro-LightSemiCn
+FamilyName:Myriad Pro
+StyleName:Light SemiCondensed
+MenuName:Myriad Pro Light SemiCond
+StyleBits:0
+WeightClass:300
+WidthClass:4
+AngleClass:0
+FullName:Myriad Pro Light SemiCondensed
+WritingScript:Roman
+OutlineFileName:\MyriadPro-LightSemiCn.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:94340
+FileModTime:1496222302
+DesignSize:110
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MyriadPro-LightSemiCnIt
+FamilyName:Myriad Pro
+StyleName:Light SemiCondensed Italic
+MenuName:Myriad Pro Light SemiCond
+StyleBits:1
+WeightClass:300
+WidthClass:4
+AngleClass:1
+FullName:Myriad Pro Light SemiCondensed Italic
+WritingScript:Roman
+OutlineFileName:\MyriadPro-LightSemiCnIt.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:99584
+FileModTime:1496222302
+DesignSize:110
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MyriadPro-Regular
+FamilyName:Myriad Pro
+StyleName:Regular
+MenuName:Myriad Pro
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Myriad Pro
+WritingScript:Roman
+OutlineFileName:\MyriadPro-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:95984
+FileModTime:1496222302
+DesignSize:110
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MyriadPro-Semibold
+FamilyName:Myriad Pro
+StyleName:Semibold
+MenuName:Myriad Pro Light
+StyleBits:2
+WeightClass:600
+WidthClass:5
+AngleClass:0
+FullName:Myriad Pro Semibold
+WritingScript:Roman
+OutlineFileName:\MyriadPro-Semibold.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:97332
+FileModTime:1496222303
+DesignSize:110
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MyriadPro-SemiboldSemiCn
+FamilyName:Myriad Pro
+StyleName:Semibold SemiCondensed
+MenuName:Myriad Pro Light SemiCond
+StyleBits:2
+WeightClass:600
+WidthClass:4
+AngleClass:0
+FullName:Myriad Pro Semibold SemiCondensed
+WritingScript:Roman
+OutlineFileName:\MyriadPro-SemiboldSemiCn.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:96880
+FileModTime:1496222303
+DesignSize:110
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MyriadPro-SemiboldSemiCnIt
+FamilyName:Myriad Pro
+StyleName:Semibold SemiCondensed Italic
+MenuName:Myriad Pro Light SemiCond
+StyleBits:3
+WeightClass:600
+WidthClass:4
+AngleClass:1
+FullName:Myriad Pro Semibold SemiCondensed Italic
+WritingScript:Roman
+OutlineFileName:\MyriadPro-SemiboldSemiCnIt.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:102168
+FileModTime:1496222303
+DesignSize:110
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MyriadPro-SemiCn
+FamilyName:Myriad Pro
+StyleName:SemiCondensed
+MenuName:Myriad Pro SemiCond
+StyleBits:0
+WeightClass:400
+WidthClass:4
+AngleClass:0
+FullName:Myriad Pro SemiCondensed
+WritingScript:Roman
+OutlineFileName:\MyriadPro-SemiCn.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:96436
+FileModTime:1496222302
+DesignSize:110
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MyriadPro-SemiCnIt
+FamilyName:Myriad Pro
+StyleName:SemiCondensed Italic
+MenuName:Myriad Pro SemiCond
+StyleBits:1
+WeightClass:400
+WidthClass:4
+AngleClass:1
+FullName:Myriad Pro SemiCondensed Italic
+WritingScript:Roman
+OutlineFileName:\MyriadPro-SemiCnIt.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:101028
+FileModTime:1496222302
+DesignSize:110
+%EndFont
+
