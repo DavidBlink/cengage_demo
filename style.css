@@ -3,8 +3,8 @@
 /* Fonts */
 
 	@font-face {
-	  font-family: MyriadPro;
-	  src: url(MyriadPro-Semibold.otf);
+	  font-family: MyriadPro-Regular;
+	  src: url(cengage_demo/fonts/MyriadPro-Regular.otf);
 	}
 
 	@font-face {
