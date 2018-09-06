@@ -5,8 +5,8 @@
 	@font-face {
 	  font-family: MyriadPro-Semibold;
 	  src: url(fonts/MyriadPro-Semibold.otf);
-	 
 	}
+
 	@font-face {
 	  font-family: Arial;
 	  src: url(fonts/Arial.ttf);
@@ -691,6 +691,7 @@ body:not(.edit) .slider-indicators {
 
 .bck-title-1 {
     color: #727175;
+    font-family: MyriadPro-Semibold;
 }
 
 
