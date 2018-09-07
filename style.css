@@ -4,7 +4,7 @@
 
 	@font-face {
 	  font-family: MyriadPro-Regular;
-	  src: url(fonts/MyriadPro-Regular.otf);
+	  src: url('fonts/MyriadPro-Regular.otf');
 	}
 
 	@font-face {
